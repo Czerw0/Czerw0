@@ -2,7 +2,8 @@
 
 🎓 2nd-year student of **Psychology and Computer Science with AI specialization** at **SWPS University**  
 🤖 Passionate about the intersection of human behavior and artificial intelligence  
-🎿 National-level athlete & ski instructor | 💬 Curious mind | 🧠 Data enthusiast  
+🎿 National-level athlete & ski instructor | 💬 Curious mind | 🧠 Data enthusiast
+> **I strongly encaruge to scroll down to look at my repositories**
 
 ---
 
@@ -22,8 +23,6 @@ Currently deepening my knowledge in:
 ### 🌐 Future Guider (Leadership Lab, SWPS 2024–2025)
 > Helping students make informed choices about their academic future  
 Created SQL Database
-
-> **I strongly encaruge to take a moment to look at my repositories**
 
 ---
 
