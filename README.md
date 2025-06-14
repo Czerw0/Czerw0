@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Karol Czerwiński!
+# Hi, I'm Karol Czerwiński!
 
-🎓 2nd-year student of **Psychology and Computer Science with AI specialization** at **SWPS University**  
-🤖 Passionate about the intersection of human behavior and artificial intelligence  
-🎿 National-level athlete & ski instructor | 💬 Curious mind | 🧠 Data enthusiast
+ 2nd-year student of **Psychology and Computer Science with AI specialization** at **SWPS University**  
+ Passionate about the intersection of human behavior and artificial intelligence  
+ National-level athlete & ski instructor |  Curious mind |  Data enthusiast
 > **I strongly encaruge to scroll down to look at my repositories**
 
 ---
 
-## 🧩 About Me
+##  About Me
 
 I thrive at the crossroads of technology and psychology.  
 With strong foundations in programming, data analysis, and human-centered design, I aim to build solutions in the future that **adress humans needs**.
@@ -18,15 +18,15 @@ Currently deepening my knowledge in:
 - Data Science
 ---
 
-## 🧠 Projects & Experience
+##  Projects & Experience
 
-### 🌐 Future Guider (Leadership Lab, SWPS 2024–2025)
+###  Future Guider (Leadership Lab, SWPS 2024–2025)
 > Helping students make informed choices about their academic future  
 Created SQL Database
 
 ---
 
-## 🧰 Technical Skills
+##  Technical Skills
 
 >**Languages:** Python, SQL, R  
 >**Libraries:** pandas, NumPy, matplotlib, scikit-learn, Django  
@@ -35,7 +35,7 @@ Created SQL Database
 
 ---
 
-## 💡 Soft Skills
+##  Soft Skills
 
 - Communication & Teamwork  
 - Problem Solving  
@@ -46,18 +46,18 @@ Created SQL Database
 
 ---
 
-## 📚 Education
+##  Education
 
-🎓 **SWPS University** (2023 – 2027 expected)  
+ **SWPS University** (2023 – 2027 expected)  
 **BSc. Psychology and Computer Science**  
-🔍 AI Specialization
+ AI Specialization
 
 ---
 
-## 🌐 Let's Connect
+##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karol-czerwiński-3a3421334)    
-📫 karol.czerwo@gmail.com, +48 505 245 986
-📍 Warsaw, Poland
+ karol.czerwo@gmail.com, +48 505 245 986
+ Warsaw, Poland
 
 
