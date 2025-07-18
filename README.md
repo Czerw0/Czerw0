@@ -1,6 +1,6 @@
 # Hi, I'm Karol Czerwiński!
 
- 2nd-year student of **Psychology and Computer Science with AI specialization** at **SWPS University**  
+ 3rd-year student of **Psychology and Computer Science with AI specialization** at **SWPS University**  
  Passionate about the intersection of human behavior and artificial intelligence  
  National-level athlete & ski instructor |  Curious mind |  Data enthusiast
 > **I strongly encaruge to scroll down to look at my repositories**
