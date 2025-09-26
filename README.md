@@ -57,7 +57,7 @@ Created SQL Database
 ##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karol-czerwiński-3a3421334)    
- karol.czerwo@gmail.com, +48 505 245 986
+ karol.czerwo@gmail.com
  Warsaw, Poland
 
 
